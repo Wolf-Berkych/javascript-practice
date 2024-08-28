@@ -7,7 +7,7 @@ Function Scope: створити функцію, оголосити зміну �
 Block Scope: Створити функцію, в функції написати блок {} всередині якого оголосити змінну та вивести її в консоль, 
 тоді вивести в консоль цю змінну за межами блоку, та подивитись на результат */
 
-// write below code for global scope
+//Write below code for the global scope
 
 // const globalName = "Global Mike";
 
